@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "147715245576",
+    "project_id": "lab4notes",
+    "storage_bucket": "lab4notes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147715245576:android:b45e48ca7eb56cfe1873bd",
+        "android_client_info": {
+          "package_name": "com.lab4project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147715245576-gk1r0bo236t8c9v8ah70b8imjim601qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lab4project",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "147715245576-dpunfh1mr3fort77tmksrdqli55j67tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzdwdHZG00p5sxOOgHOKVQLjXWr0ch58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147715245576-dpunfh1mr3fort77tmksrdqli55j67tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
