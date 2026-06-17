@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982878293951",
+    "project_id": "smarttest-19c50",
+    "storage_bucket": "smarttest-19c50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982878293951:android:86fb8f4f3b70d6ef101b0a",
+        "android_client_info": {
+          "package_name": "com.smarttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982878293951-teiao6pjh7flb2rfd629fok256mphaf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarttest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "982878293951-emeuih4jjidbbgp87u4p59j54tbaj3us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSPcVTqflTW7584Y9vb2lfxXkF-0Of_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982878293951-emeuih4jjidbbgp87u4p59j54tbaj3us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
